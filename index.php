@@ -53,7 +53,8 @@
 </svg>
 
 <p class="text-white" style="margin-left: 1.5rem; margin-bottom: 3rem;" id="sign"></p>
-<audio id="audio" src="lauv_song.mp3" autoplay="autoplay"></audio>
+ <!-- edit audio here -->
+<audio id="audio" src="song-title.mp3" autoplay="autoplay"></audio>
 <div id="outer" class="outer">
   <div class="middle">
     <div class="inner">
